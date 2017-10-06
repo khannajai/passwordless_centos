@@ -4,4 +4,4 @@ Given multiple hosts in the file hosts.txt, if you want all of them to be passwo
 ```
 expect passwordless.exp
 ```
-You can edit the IPs of the hosts in hosts.txt. By default, this script will configure passwordless only on root users with a default password ```root@123``` 
+You can edit the IPs of the hosts in hosts.txt.  
